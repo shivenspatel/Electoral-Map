@@ -1,0 +1,52 @@
+state,nickname,latitude,longitude,capital_city,party,name,population,state_flag_url, DemocraticNum , RepublicanNum ,Winner,,Democratic,Republican
+Alabama,Yellowhammer State,32.377716,-86.300568,Montgomery,(R),Kay Ivey,4833722,https://cdn.civil.services/us-states/flags/alabama-large.png, 34.36 , 62.08 ,Republican,,34.36%,62.08%
+Alaska,The Last Frontier,58.301598,-134.420212,Juneau,(R),Mike Dunleavy,735132,https://cdn.civil.services/us-states/flags/alaska-large.png, 36.55 , 51.28 ,Republican,,36.55%,51.28%
+Arizona,The Grand Canyon State,33.448143,-112.096962,Phoenix,(R),Douglas Ducey,6626624,https://cdn.civil.services/us-states/flags/arizona-large.png, 44.58 , 48.08 ,Republican,,44.58%,48.08%
+Arkansas,The Natural State,34.746613,-92.288986,Little Rock,(R),Asa Hutchinson,2959373,https://cdn.civil.services/us-states/flags/arkansas-large.png, 33.65 , 60.57 ,Republican,,33.65%,60.57%
+California,Golden State,38.576668,-121.493629,Sacramento,(D),Gavin Newsom,38332521,https://cdn.civil.services/us-states/flags/california-large.png, 61.48 , 31.49 ,Democratic,,61.48%,31.49%
+Colorado,The Centennial State,39.739227,-104.984856,Denver,(D),Jared Polis,5268367,https://cdn.civil.services/us-states/flags/colorado-large.png, 48.16 , 43.25 ,Democratic,,48.16%,43.25%
+Connecticut,Constitution State,41.764046,-72.682198,Hartford,(D),Edward Lamont,3596080,https://cdn.civil.services/us-states/flags/connecticut-large.png, 54.57 , 40.93 ,Democratic,,54.57%,40.93%
+Delaware,The First State / The Diamond State,39.157307,-75.519722,Dover,(D),John Carney,925749,https://cdn.civil.services/us-states/flags/delaware-large.png, 53.09 , 41.71 ,Democratic,,53.09%,41.71%
+Florida,Sunshine State,30.438118,-84.281296,Tallahassee,(R),Ronald DeSantis,19552860,https://cdn.civil.services/us-states/flags/florida-large.png, 47.41 , 48.60 ,Republican,,47.41%,48.60%
+Georgia,Peach State,33.749027,-84.388229,Atlanta,(R),Nathan Deal,9992167,https://cdn.civil.services/us-states/flags/georgia-large.png, 45.35 , 50.44 ,Republican,,45.35%,50.44%
+Hawaii,Aloha State,21.307442,-157.857376,Honolulu,(D),David Ige,1404054,https://cdn.civil.services/us-states/flags/hawaii-large.png, 62.22 , 30.04 ,Democratic,,62.22%,30.04%
+Idaho,Gem State,43.617775,-116.199722,Boise,(R),Brad Little,1612136,https://cdn.civil.services/us-states/flags/idaho-large.png, 27.48 , 59.25 ,Republican,,27.48%,59.25%
+Illinois,Prairie State,39.798363,-89.654961,Springfield,(D),J.B. Pritzker,12882135,https://cdn.civil.services/us-states/flags/illinois-large.png, 55.25 , 38.36 ,Democratic,,55.25%,38.36%
+Indiana,Hoosier State,39.768623,-86.162643,Indianapolis,(R),Eric Holcomb,6570902,https://cdn.civil.services/us-states/flags/indiana-large.png, 37.46 , 56.47 ,Republican,,37.46%,56.47%
+Iowa,Hawkeye State,41.591087,-93.603729,Des Moines,(R),Kimberly Reynolds,3090416,https://cdn.civil.services/us-states/flags/iowa-large.png, 41.74 , 51.15 ,Republican,,41.74%,51.15%
+Kansas,Sunflower State,39.048191,-95.677956,Topeka,(D),Laura Kelly,2893957,https://cdn.civil.services/us-states/flags/kansas-large.png, 35.74 , 56.16 ,Republican,,35.74%,56.16%
+Kentucky,Bluegrass State,38.186722,-84.875374,Frankfort,(R),Matthew Bevin,4395295,https://cdn.civil.services/us-states/flags/kentucky-large.png, 32.68 , 62.52 ,Republican,,32.68%,62.52%
+Louisiana,Pelican State,30.457069,-91.187393,Baton Rouge,(D),John Edwards,4625470,https://cdn.civil.services/us-states/flags/louisiana-large.png, 38.45 , 58.09 ,Republican,,38.45%,58.09%
+Maine,Pine Tree State,44.307167,-69.781693,Augusta,(R),Janet Mills,1328302,https://cdn.civil.services/us-states/flags/maine-large.png, 47.83 , 44.87 ,Democratic,,47.83%,44.87%
+Maryland,Old Line State,38.978764,-76.490936,Annapolis,(R),Lawrence Hogan,5928814,https://cdn.civil.services/us-states/flags/maryland-large.png, 60.33 , 33.91 ,Democratic,,60.33%,33.91%
+Massachusetts,Bay State,42.358162,-71.063698,Boston,(R),Charles Baker,6692824,https://cdn.civil.services/us-states/flags/massachusetts-large.png, 60.01 , 32.81 ,Democratic,,60.01%,32.81%
+Michigan,Wolverine State / Great Lakes State,42.733635,-84.555328,Lansing,(D),Gretchen Whitmer,9895622,https://cdn.civil.services/us-states/flags/michigan-large.png, 47.03 , 47.25 ,Republican,,47.03%,47.25%
+Minnesota,"North Star State / Land of 10,000 Lakes",44.955097,-93.102211,Saint Paul,(D),Tim Walz,5420380,https://cdn.civil.services/us-states/flags/minnesota-large.png, 46.44 , 44.93 ,Democratic,,46.44%,44.93%
+Mississippi,Magnolia State,32.303848,-90.182106,Jackson,(R),Dewey Bryant,2991207,https://cdn.civil.services/us-states/flags/mississippi-large.png, 40.06 , 57.86 ,Republican,,40.06%,57.86%
+Missouri,Show Me State,38.579201,-92.172935,Jefferson City,(R),Michael Parson,6044171,https://cdn.civil.services/us-states/flags/missouri-large.png, 37.88 , 56.39 ,Republican,,37.88%,56.39%
+Montana,Treasure State,46.585709,-112.018417,Helena,(D),Stephen Bullock,1015165,https://cdn.civil.services/us-states/flags/montana-large.png, 35.41 , 55.65 ,Republican,,35.41%,55.65%
+Nebraska,Cornhusker State,40.808075,-96.699654,Lincoln,(R),John Ricketts,1868516,https://cdn.civil.services/us-states/flags/nebraska-large.png, 33.70 , 58.75 ,Republican,,33.70%,58.75%
+Nevada,The Silver State,39.163914,-119.766121,Carson City,(D),Steve Sisolak,2790136,https://cdn.civil.services/us-states/flags/nevada-large.png, 47.92 , 45.50 ,Democratic,,47.92%,45.50%
+New Hampshire,Granite State,43.206898,-71.537994,Concord,(R),Christopher Sununu,1323459,https://cdn.civil.services/us-states/flags/new-hampshire-large.png, 46.83 , 46.46 ,Democratic,,46.83%,46.46%
+New Jersey,Garden State,40.220596,-74.769913,Trenton,(D),Philip Murphy,8899339,https://cdn.civil.services/us-states/flags/new-jersey-large.png, 54.99 , 41.00 ,Democratic,,54.99%,41.00%
+New Mexico,Land of Enchantment,35.68224,-105.939728,Santa Fe,(D),Michelle Lujan Grisham,2085287,https://cdn.civil.services/us-states/flags/new-mexico-large.png, 48.26 , 40.04 ,Democratic,,48.26%,40.04%
+New York,Empire State,42.652843,-73.757874,Albany,(D),Andrew Cuomo,19651127,https://cdn.civil.services/us-states/flags/new-york-large.png, 59.01 , 36.52 ,Democratic,,59.01%,36.52%
+North Carolina,Old North State / Tar Heel State,35.78043,-78.639099,Raleigh,(D),Roy Cooper,9848060,https://cdn.civil.services/us-states/flags/north-carolina-large.png, 46.17 , 49.83 ,Republican,,46.17%,49.83%
+North Dakota,Peace Garden State / Flickertail State / Roughrider State,46.82085,-100.783318,Bismarck,(R),Douglas Burgum,723393,https://cdn.civil.services/us-states/flags/north-dakota-large.png, 27.23 , 62.96 ,Republican,,27.23%,62.96%
+Ohio,Buckeye State,39.961346,-82.999069,Columbus,(R),Michael DeWine,11570808,https://cdn.civil.services/us-states/flags/ohio-large.png, 43.24 , 51.31 ,Republican,,43.24%,51.31%
+Oklahoma,Sooner State,35.492207,-97.503342,Oklahoma City,(R),Kevin Stitt,3850568,https://cdn.civil.services/us-states/flags/oklahoma-large.png, 28.93 , 65.32 ,Republican,,28.93%,65.32%
+Oregon,Beaver State,44.938461,-123.030403,Salem,(D),Katherine Brown,3930065,https://cdn.civil.services/us-states/flags/oregon-large.png, 50.07 , 39.09 ,Democratic,,50.07%,39.09%
+Pennsylvania,Keystone State,40.264378,-76.883598,Harrisburg,(D),Thomas Wolf,12773801,https://cdn.civil.services/us-states/flags/pennsylvania-large.png, 47.46 , 48.17 ,Republican,,47.46%,48.17%
+Rhode Island,The Ocean State,41.830914,-71.414963,Providence,(D),Gina Raimondo,1051511,https://cdn.civil.services/us-states/flags/rhode-island-large.png, 54.41 , 38.90 ,Democratic,,54.41%,38.90%
+South Carolina,Palmetto State,34.000343,-81.033211,Columbia,(R),Henry McMaster,4774839,https://cdn.civil.services/us-states/flags/south-carolina-large.png, 40.67 , 54.94 ,Republican,,40.67%,54.94%
+South Dakota,Mount Rushmore State,44.367031,-100.346405,Pierre,(R),Kristi Noem,844877,https://cdn.civil.services/us-states/flags/south-dakota-large.png, 31.74 , 61.53 ,Republican,,31.74%,61.53%
+Tennessee,Volunteer State,36.16581,-86.784241,Nashville,(R),Bill Lee,6495978,https://cdn.civil.services/us-states/flags/tennessee-large.png, 34.72 , 60.72 ,Republican,,34.72%,60.72%
+Texas,Lone Star State,30.27467,-97.740349,Austin,(R),Gregory Abbott,26448193,https://cdn.civil.services/us-states/flags/texas-large.png, 43.24 , 52.23 ,Republican,,43.24%,52.23%
+Utah,The Beehive State,40.777477,-111.888237,Salt Lake City,(R),Gary Herbert,2900872,https://cdn.civil.services/us-states/flags/utah-large.png, 27.17 , 45.05 ,Republican,,27.17%,45.05%
+Vermont,Green Mountain State,44.262436,-72.580536,Montpelier,(R),Philip Scott,626630,https://cdn.civil.services/us-states/flags/vermont-large.png, 56.68 , 30.27 ,Democratic,,56.68%,30.27%
+Virginia,Old Dominion State,37.538857,-77.43364,Richmond,(D),Ralph Northam,8260405,https://cdn.civil.services/us-states/flags/virginia-large.png, 49.75 , 44.43 ,Democratic,,49.75%,44.43%
+Washington,The Evergreen State,47.035805,-122.905014,Olympia,(D),Jay Inslee,6971406,https://cdn.civil.services/us-states/flags/washington-large.png, 52.54 , 36.83 ,Democratic,,52.54%,36.83%
+West Virginia,Mountain State,38.336246,-81.612328,Charleston,(D),James Justice,1854304,https://cdn.civil.services/us-states/flags/west-virginia-large.png, 26.18 , 67.85 ,Republican,,26.18%,67.85%
+Wisconsin,Badger State,43.074684,-89.384445,Madison,(D),Tony Evers,5742713,https://cdn.civil.services/us-states/flags/wisconsin-large.png, 46.45 , 47.22 ,Republican,,46.45%,47.22%
+Wyoming,Equality State,41.140259,-104.820236,Cheyenne,(R),Mark Gordon,582658,https://cdn.civil.services/us-states/flags/wyoming-large.png, 21.88 , 68.17 ,Republican,,21.88%,68.17%
+,,,,,,,,,,,,,,

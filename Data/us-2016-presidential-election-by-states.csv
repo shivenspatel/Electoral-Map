@@ -1,0 +1,51 @@
+State, DemocraticNum , RepublicanNum ,Winner,,Democratic,Republican
+Alabama, 34.36 , 62.08 ,Republican,,34.36%,62.08%
+Alaska, 36.55 , 51.28 ,Republican,,36.55%,51.28%
+Arizona, 44.58 , 48.08 ,Republican,,44.58%,48.08%
+Arkansas, 33.65 , 60.57 ,Republican,,33.65%,60.57%
+California, 61.48 , 31.49 ,Democratic,,61.48%,31.49%
+Colorado, 48.16 , 43.25 ,Democratic,,48.16%,43.25%
+Connecticut, 54.57 , 40.93 ,Democratic,,54.57%,40.93%
+Delaware, 53.09 , 41.71 ,Democratic,,53.09%,41.71%
+Florida, 47.41 , 48.60 ,Republican,,47.41%,48.60%
+Georgia, 45.35 , 50.44 ,Republican,,45.35%,50.44%
+Hawaii, 62.22 , 30.04 ,Democratic,,62.22%,30.04%
+Idaho, 27.48 , 59.25 ,Republican,,27.48%,59.25%
+Illinois, 55.25 , 38.36 ,Democratic,,55.25%,38.36%
+Indiana, 37.46 , 56.47 ,Republican,,37.46%,56.47%
+Iowa, 41.74 , 51.15 ,Republican,,41.74%,51.15%
+Kansas, 35.74 , 56.16 ,Republican,,35.74%,56.16%
+Kentucky, 32.68 , 62.52 ,Republican,,32.68%,62.52%
+Louisiana, 38.45 , 58.09 ,Republican,,38.45%,58.09%
+Maine, 47.83 , 44.87 ,Democratic,,47.83%,44.87%
+Maryland, 60.33 , 33.91 ,Democratic,,60.33%,33.91%
+Massachusetts, 60.01 , 32.81 ,Democratic,,60.01%,32.81%
+Michigan, 47.03 , 47.25 ,Republican,,47.03%,47.25%
+Minnesota, 46.44 , 44.93 ,Democratic,,46.44%,44.93%
+Mississippi, 40.06 , 57.86 ,Republican,,40.06%,57.86%
+Missouri, 37.88 , 56.39 ,Republican,,37.88%,56.39%
+Montana, 35.41 , 55.65 ,Republican,,35.41%,55.65%
+Nebraska, 33.70 , 58.75 ,Republican,,33.70%,58.75%
+Nevada, 47.92 , 45.50 ,Democratic,,47.92%,45.50%
+New Hampshire, 46.83 , 46.46 ,Democratic,,46.83%,46.46%
+New Jersey, 54.99 , 41.00 ,Democratic,,54.99%,41.00%
+New Mexico, 48.26 , 40.04 ,Democratic,,48.26%,40.04%
+New York, 59.01 , 36.52 ,Democratic,,59.01%,36.52%
+North Carolina, 46.17 , 49.83 ,Republican,,46.17%,49.83%
+North Dakota, 27.23 , 62.96 ,Republican,,27.23%,62.96%
+Ohio, 43.24 , 51.31 ,Republican,,43.24%,51.31%
+Oklahoma, 28.93 , 65.32 ,Republican,,28.93%,65.32%
+Oregon, 50.07 , 39.09 ,Democratic,,50.07%,39.09%
+Pennsylvania, 47.46 , 48.17 ,Republican,,47.46%,48.17%
+Rhode Island, 54.41 , 38.90 ,Democratic,,54.41%,38.90%
+South Carolina, 40.67 , 54.94 ,Republican,,40.67%,54.94%
+South Dakota, 31.74 , 61.53 ,Republican,,31.74%,61.53%
+Tennessee, 34.72 , 60.72 ,Republican,,34.72%,60.72%
+Texas, 43.24 , 52.23 ,Republican,,43.24%,52.23%
+Utah, 27.17 , 45.05 ,Republican,,27.17%,45.05%
+Vermont, 56.68 , 30.27 ,Democratic,,56.68%,30.27%
+Virginia, 49.75 , 44.43 ,Democratic,,49.75%,44.43%
+Washington, 52.54 , 36.83 ,Democratic,,52.54%,36.83%
+West Virginia, 26.18 , 67.85 ,Republican,,26.18%,67.85%
+Wisconsin, 46.45 , 47.22 ,Republican,,46.45%,47.22%
+Wyoming, 21.88 , 68.17 ,Republican,,21.88%,68.17%
